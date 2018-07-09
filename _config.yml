@@ -5,7 +5,7 @@ author: lab401
 language: zh-tw
 timezone: UTC
 
-url:
+url: https://setsal.github.io
 root: /
 permalink: announces/:year/:month/:day/:title/
 archive_dir: announces

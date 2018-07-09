@@ -1,0 +1,25 @@
+title: 401site
+subtitle: "Powered by Hexo"
+description: "(っ・Д・)っ一天弄出來的setsal"
+author: lab401
+language: zh-tw
+timezone: UTC
+
+url: https://hexo.io
+root: /
+permalink: announces/:year/:month/:day/:title/
+archive_dir: announces
+code_dir: downloads/code
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+post_asset_folder: true
+per_page: 0
+
+theme: navy
+deploy:
+  type: git
+  repo: 
+
+highlight:
+  enable: true
+  line_number: false
+

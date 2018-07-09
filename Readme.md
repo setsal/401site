@@ -1,8 +1,10 @@
 # 401 Website
 
-Maybe it is just a training. =P
+Maybe just a training. =P
 
-Use and Modify the Hexo Navy theme. 
+Powered by Hexo.
+
+Use and Modify the Hexo Navy theme.
 
 ## Getting started
 

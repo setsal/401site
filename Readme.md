@@ -12,7 +12,7 @@ Install dependencies:
 
 ``` bash
 $ git clone https://github.com/setsal/401site.git
-$ cd 401sitet
+$ cd 401site
 $ npm install
 ```
 

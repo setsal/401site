@@ -4,6 +4,8 @@
   function changeLang() {
     var lang = this.value;
     var canonical = this.dataset.canonical;
+    console.log(canonical);
+    if (lang === 'zh-tw') lang = '';
     if (lang) lang += '/';
 
     location.href = '/' + lang + canonical;

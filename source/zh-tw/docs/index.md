@@ -4,7 +4,8 @@ title: 提供服務
 ##  主要伺服器
 To be continue..
 ### 工作站
-To be continue..
+- [工作站使用手冊](workstation.html)
+
 ### WWW
 To be continue..
 ### Mail

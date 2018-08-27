@@ -2,7 +2,7 @@
 <div id="brand">
   <header id="banner" class="wrapper">
     <div class="inner">
-      <h2 id="banner-title">國立中正大學資訊工程學系-系計算機中心</h2>
+      <h2 id="banner-title">國立中正大學資訊工程學系 - 系計算機中心</h2>
       <div id="banner-start">
 
       </div>

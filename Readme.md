@@ -31,3 +31,4 @@ $ hexo server
 ## Contributors
 
 - setsal Lan
+- Alan Wu

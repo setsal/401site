@@ -26,27 +26,29 @@ title: 外系生
 ## 外系生工作站資訊
 
 + 位址：csie2.cs.ccu.edu.tw
-+ 連線：
-請以任何支援 SSH protocol version 2 的程式來登入工作站。
-    + Windows 使用者可使用 PuTTY, PieTTY, MobaXterm, …。
-    + Unix-like 使用者可以使用 OpenSSH, Dropbear, …。
++ 連線：請以任何支援 SSH protocol version 2 的程式來登入工作站。
+    + Windows 使用者可使用 PuTTY, PieTTY, MobaXterm, ...。
+    + Unix-like 使用者可使用 OpenSSH, Dropbear, ...。
 
-+ 登入方式為
++ 登入方式
 ```bash
-ssh user@csie2.cs.ccu.edu.tw
+ssh 帳號名稱@csie2.cs.ccu.edu.tw
 ```
-+ 更改密碼：連線至工作站後輸入下列指令更改密碼
+
++ 更改密碼：連線至工作站後輸入指令
 ```bash
 passwd
 ```
-+ 忘記密碼：請本人親持學生證至資工系辦申請補發新密碼
++ 忘記密碼
+請本人親持學生證至資工系辦申請補發新密碼。
+
 + FTP 傳輸
 請使用支援SFTP協定之FTP client軟體(如FileZilla)來存取FTP服務，連線時選擇SFTP協定，以增加網路傳輸的安全性。
+
 + Web Page
-請連線至工作站，並到自己的家目錄下，建立 WWW 目錄。
+請連線至工作站，並到自己的家目錄下建立 WWW 目錄。
 ```
-username@csie2[11:09pm]~>mkdir WWW
+mkdir WWW
 ```
-+ 首頁檔案必需為：index.html index.php index.shtml
-+ 使用者的 URL 為何？
-http://www2.cs.ccu.edu.tw/~username/ (username 為你個人使用的帳號)
+    + 首頁檔名必需為 index.html, index.php, 或 index.shtml 。
+    + 使用者的 URL 為 http://www2.cs.ccu.edu.tw/~帳號名稱/

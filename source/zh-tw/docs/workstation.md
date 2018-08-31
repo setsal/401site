@@ -65,7 +65,7 @@ ssh user@csie1.cs.ccu.edu.tw
 - 查看目前用量與 quota 限制：
     - FreeBSD
 ``` Shell-Script
-    `quota -h`
+    quota -h
 ```
     - Linux
 ``` Shell-Script

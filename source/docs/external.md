@@ -30,7 +30,8 @@ title: 外系生
     + Windows 使用者可使用 PuTTY, PieTTY, MobaXterm, ...。
     + Unix-like 使用者可使用 OpenSSH, Dropbear, ...。
 
-+ 登入方式
+
++ SSH 登入方式
 ```bash
 ssh 帳號名稱@csie2.cs.ccu.edu.tw
 ```
@@ -42,8 +43,10 @@ passwd
 + 忘記密碼
 請本人親持學生證至資工系辦申請補發新密碼。
 
-+ FTP 傳輸
-請使用支援SFTP協定之FTP client軟體(如FileZilla)來存取FTP服務，連線時選擇SFTP協定，以增加網路傳輸的安全性。
+
++ FTP 檔案傳輸
+請使用支援 SFTP 協定之 FTP client 軟體（如 FileZilla）來存取 FTP 服務，連線時選擇 SFTP 協定，以增加網路傳輸的安全性。
+
 
 + Web Page
 請連線至工作站，並到自己的家目錄下建立 WWW 目錄。

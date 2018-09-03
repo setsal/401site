@@ -15,7 +15,7 @@ To be continue..
 - [VPN 使用手冊](vpn.html)
 
 ### Turnin
-- [VPN 使用手冊](turnin.html)
+- [Turnin 使用手冊](turnin.html)
 
 ## 資工系網路
 

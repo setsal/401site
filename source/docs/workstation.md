@@ -36,7 +36,7 @@ title: Workstation
 
 - 登入方式：
 ``` Shell-Script
-ssh 使用者名稱@工作站位址
+ssh 帳號名稱@工作站位址
 ```
 - 範例：
 ``` Shell-Script
@@ -57,18 +57,17 @@ ssh user@csie1.cs.ccu.edu.tw
     - 大學部在校生：10 GB
     - 碩士班在校生： 3 GB
     - 畢業大學部、碩士班校友：1 GB
-<br/>
 
-- Quota 限制有緩衝 0.5 GB，即在超過 quota，但未超出 0.5 GB 時，有三日緩衝時間，如超過上限或超過三日緩衝時間，將無法再進行資料寫入
-<br/>
+
+- Quota 限制有緩衝 0.5 GB，即在超過 quota，但未超出 0.5 GB 時，有三日緩衝時間，如超過上限或超過三日緩衝時間，將無法再進行資料寫入。
+
 
 - 查看目前用量與 quota 限制：
     - FreeBSD
 ``` Shell-Script
-    `quota -h`
+    quota -h
 ```
     - Linux
 ``` Shell-Script
     quota -s
 ```
-

@@ -54,4 +54,4 @@ passwd
 mkdir WWW
 ```
     + 首頁檔名必需為 index.html, index.php, 或 index.shtml 。
-    + 使用者的 URL 為 http://www2.cs.ccu.edu.tw/~帳號名稱/
+    + 使用者的 URL 為 `http://www2.cs.ccu.edu.tw/~帳號名稱/`

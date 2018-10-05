@@ -8,7 +8,14 @@ To be continue...
 ## OpenVPN
 
 ### Windows
-To be continue...
+0. 前往 [OpenVPN 官網下載處](https://openvpn.net/index.php/open-source/downloads.html)。 下載對應客戶端並安裝
+
+1. 前往 [vpn.cs](https://vpn.cs.ccu.edu.tw)。下載 [OpenVPN 設定檔](https://vpn.cs.ccu.edu.tw/clients/ccucsie.ovpn)
+
+2. 執行已安裝完成之 OpenVPN GUI
+
+3. 點選GUI
+
 
 ### MacOS
 

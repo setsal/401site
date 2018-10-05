@@ -10,6 +10,9 @@ title: Mail 使用手冊
 
 
 ## SMTP/POP3/IMAP 伺服器設定
++ SMTP: outgoing.cs.ccu.edu.tw (port 25, [outlook]使用 SMTP 認證並勾選 TLS/SSL, [thunderbird] 勾選 TLS)
++ POP3: incoming.cs.ccu.edu.tw (port 995, 勾選 SSL)
++ IMAP: incoming.cs.ccu.edu.tw (port 993, 勾選 SSL)
 
 
 ## Web Mail 服務

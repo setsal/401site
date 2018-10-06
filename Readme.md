@@ -1,7 +1,5 @@
 # 401 Website
 
-Maybe just a training. =P
-
 Powered by Hexo.
 
 Use and Modify the Hexo Navy theme.

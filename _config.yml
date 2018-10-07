@@ -8,7 +8,7 @@ timezone: UTC
 url: https://setsal.github.io
 root: /
 permalink: /:year/:month/:day/:title/
-archive_dir: /
+archive_dir: /zh-tw/
 code_dir: downloads/code
 new_post_name: :year-:month-:day-:title.md # File name of new posts
 post_asset_folder: true

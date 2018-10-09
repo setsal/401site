@@ -1,5 +1,6 @@
 {% set page.title = '首頁' %}
 <div id="brand" class="brand">
+  <div class="brand_inner">
   <header id="banner" class="wrapper">
     <div class="inner">
       <h2 id="banner-title">國立中正大學資訊工程學系 - 系計算機中心</h2>
@@ -8,6 +9,7 @@
       </div>
     </div>
   </header>
+  </div>
 </div>
 <div id="content-wrap">
   <div class="wrapper">

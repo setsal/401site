@@ -26,6 +26,12 @@ Run developement server:
 $ hexo server
 ```
 
+Deploy to `production` branch:
+
+``` bash
+$ hexo deploy
+```
+
 ## Contributors
 
 - setsal Lan

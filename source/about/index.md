@@ -10,11 +10,10 @@ title: 關於我們
 
 + 指導老師：林柏青 老師
 + SA：
-    + 碩一：張宇彤 (CSIE_Network, Inno_Network, Wireless)
-    + 碩一：洪崇祐 (CSIE_Network, Inno_Network, Wireless)
-    + 大三：藍笙祐 (401gate, Mail, Mail2, alumni, Radius, VPN)
-    + 大三：張庭瑋 (WWW, MySQL, DNS)
-    + 大二：吳宗鴻 (Workstation, FTP, NFS, NIS)
+    + 碩一：黃中澤 (CSIE_Network, Inno_Network, Wireless)
+    + 大四：吳宗鴻 (Workstation, FTP, NFS, NIS)
+    + 大三：陳昱暢 (401gate, Mail, Mail2, alumni, Radius, VPN)
+    + 大三：康勝威 (WWW, MySQL, DNS)
 + 退休 SA:
     + 簡誌寬 (FTP, Gallery, New service development)
     + 黃暉清 (MySQL, VPN, WWW, DHCP)
@@ -37,6 +36,10 @@ title: 關於我們
     + 簡君和 (Inno_Network, WWW, MySQL)
     + 林子敬 (Workstation, FTP, NFS, NIS, DNS)
     + 陳冠穎 (CSIE_Network, Wireless)
+    + 張宇彤 (CSIE_Network, Inno_Network, Wireless)
+    + 洪崇祐 (CSIE_Network, Inno_Network, Wireless).
+    + 藍笙祐 (401gate, Mail, Mail2, alumni, Radius, VPN)
+    + 張庭瑋 (WWW, MySQL, DNS)
 
 ## 貢獻
 若對系統管理有興趣，歡迎加入系計中的行列！

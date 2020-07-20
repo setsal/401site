@@ -36,3 +36,4 @@ $ hexo deploy
 
 - setsal Lan
 - Alan Wu
+- Sleepycookie Kang

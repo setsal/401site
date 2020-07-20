@@ -13,7 +13,7 @@ title: 關於我們
     + 碩一：黃中澤 (CSIE_Network, Inno_Network, Wireless)
     + 大四：吳宗鴻 (Workstation, FTP, NFS, NIS)
     + 大三：陳昱暢 (401gate, Mail, Mail2, alumni, Radius, VPN)
-    + 大三：康勝威 (WWW, MySQL, DNS)
+    + 大三：康勝崴 (WWW, MySQL, DNS)
 + 退休 SA:
     + 簡誌寬 (FTP, Gallery, New service development)
     + 黃暉清 (MySQL, VPN, WWW, DHCP)
